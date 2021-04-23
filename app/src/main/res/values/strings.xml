@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="reset">reset</string>
+    <string name="screen">is your number 5?</string>
+    <string name="guess_next">guess next</string>
+    <string name="press_if_correct">press if correct</string>
+    <string name="guess_previous">guess previous</string>
+    <string name="question">Is your number %d ?</string>
+    <string name="display">You guessed %d</string>
+    <string name="guess_template">Guess a number from 1 to 10</string>
+</resources>
